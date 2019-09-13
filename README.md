@@ -38,6 +38,6 @@ Add in **drawable** folder file **background.xml**
 ```
 
 Add in **activity_main.xml**:
-````java
+```java
 android:background="@drawable/background"
 ```
